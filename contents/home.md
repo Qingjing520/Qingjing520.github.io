@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Qingjing520](https://qingjing520.github.io/)](https://github.com/Qingjing520)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Fellow in the Department of Artificial Intelligence (AI) at Nanjing University of Aeronautics and Astronautics.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 162350129.nuaa.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Artificial Intelligence, Nanjing University of Aeronautics and Astronautics, 2023—2027.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Deep Learning, Artificial Intelligence Seismology
