@@ -1,6 +1,6 @@
 
 
-[![Qingjing520](https://qingjing520.github.io/)](https://github.com/Qingjing520)
+[![Qingjing520](https://img.shields.io/badge/Qingjing520-github-blue?logo=github)](https://github.com/Qingjing520)
 
 He is currently a Fellow in the Department of Artificial Intelligence (AI) at Nanjing University of Aeronautics and Astronautics.
 
